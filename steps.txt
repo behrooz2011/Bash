@@ -1,0 +1,3 @@
+step1: grep jane source.txt
+step2: grep  jane  source.txt
+( jane and space jane space must be in parentheses)
